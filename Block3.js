@@ -18,3 +18,13 @@ console.log(e);
 let f = 21 * true;
 
 console.log(f);
+
+let t = 'string' / true;
+console.log(t);
+
+let y = 'string' / 21;
+console.log(y);
+
+let u = 21 / true;
+
+console.log(u);
