@@ -6,3 +6,6 @@ console.log(d);
 
 let w = Boolean("string");
 console.log(w);
+
+
+console.log('string' / true, 'string' / 21, 21 / true)
